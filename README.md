@@ -1,4 +1,4 @@
-# 2D_dubins Path
+# 2D_dubins Path（Analytical Geometry method）
 **ref**：Cooperative Path Planning of Unmanned Aerial Vehicles
 
 ## input
