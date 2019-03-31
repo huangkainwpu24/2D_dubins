@@ -1,3 +1,4 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 # 2D_dubins Path
 **ref**：Cooperative Path Planning of Unmanned Aerial Vehicles
 
