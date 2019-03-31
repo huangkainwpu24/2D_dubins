@@ -21,8 +21,8 @@ P35 in ref
 
 |                    |      Start turn       |      Finish turn       |
 | :----------------: | :-------------------: | :--------------------: |
-| **$\phi_{right}$** | $\alpha+\beta+\pi /2$ | $\alpha+\beta+\pi /2$  |
-| **$\phi_{left}$**  | $\beta-\alpha+3\pi/2$ | $\beta-\alpha+3\pi /2$ |
+| **$\alpha_{right}$** | $\alpha+\beta+\pi /2$ | $\alpha+\beta+\pi /2$  |
+| **$\alpha_{left}$**  | $\beta-\alpha+3\pi/2$ | $\beta-\alpha+3\pi /2$ |
 
 P39 in ref
 
@@ -30,13 +30,12 @@ P39 in ref
 
 |                   |     Start turn      |    Finish turn     |
 | :---------------: | :-----------------: | :----------------: |
-|  $\phi_{right}$   |   $\alpha+\beta$    | $\beta-\alpha+\pi$ |
-| **$\phi_{left}$** | $\beta-\alpha+2\pi$ | $\alpha+\beta+\pi$ |
+| **$\alpha_{right}$**   |   $\alpha+\beta$    | $\beta-\alpha+\pi$ |
+| **$\alpha_{left}$** | $\beta-\alpha+2\pi$ | $\alpha+\beta+\pi$ |
 
 **Table 2.2** Calculation of tangent exit and entry points for internal tangent(**Changed**)
 
 |                   |      Start turn      |       Finish turn       |
 | :---------------: | :------------------: | :---------------------: |
-|  $\phi_{right}$   | $\beta-\alpha+\pi/2$ |  $\beta+\alpha+\pi /2$  |
-| **$\phi_{left}$** | $\beta+\alpha-\pi/2$ | $-\alpha+\beta+3\pi /2$ |
-
+| **$\alpha_{right}$**   | $\beta-\alpha+\pi/2$ |  $\beta+\alpha+\pi /2$  |
+| **$\alpha_{left}$** | $\beta+\alpha-\pi/2$ | $-\alpha+\beta+3\pi /2$ |
