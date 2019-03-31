@@ -4,7 +4,7 @@
 
 ## input
 
-You should input **the start position**(x and y),**start direction speed**,**start curvature **and the same as finish, all these parameters are in file named "main.m"
+You should input **the start position**(x and y),**start direction speed**,**start curvature**and the same as finish, all these parameters are in file named "main.m"
 
 ## output
 
